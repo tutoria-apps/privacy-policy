@@ -1,0 +1,47 @@
+*,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.main-container {
+	width: 90%;
+	margin: 0 auto;
+	padding: 5px 0;
+}
+
+.header {
+	background: #2e2e2e;
+	padding: 5px 10px;
+}
+
+.header-text {
+	color: white;
+	font-weight: normal;
+}
+
+.header-text:nth-child(2) {
+	padding-top: 5px;
+}
+
+.main-content-header {
+	font-weight: normal;
+	padding: 15px 10px;
+}
+
+.plain-text {
+	padding: 10px;
+}
+
+.tos-list {
+	padding: 10px;
+	margin-left: 15px;
+}
+
+.tos-list-item {
+	padding: 5px 0;
+}
+
+.tos-list-item-paragraph {
+	text-indent: 15px;
+}
